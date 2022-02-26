@@ -22,10 +22,14 @@ It is my website that I use daily, so I had to include everything that I needed.
 
 
 Repo size :![repo size](https://img.shields.io/github/repo-size/wolmer-afk/WolPortal)
-Total lines of code :![code](https://img.shields.io/tokei/lines/github/wolmer-afk/WolPortal)
-Deployment :![deployment](https://img.shields.io/github/deployments/wolmer-afk/WolPortal/github-pages)
-Last update :![deployment](https://img.shields.io/github/last-commit/wolmer-afk/WolPortal)
-Discord Online :![Discord](https://img.shields.io/discord/936114716475006976)
+
+Total lines of code : ![code](https://img.shields.io/tokei/lines/github/wolmer-afk/WolPortal)
+
+Deployment : ![deployment](https://img.shields.io/github/deployments/wolmer-afk/WolPortal/github-pages)
+
+Last update : ![deployment](https://img.shields.io/github/last-commit/wolmer-afk/WolPortal)
+
+Discord Online : ![Discord](https://img.shields.io/discord/936114716475006976)
 ## Authors
 
 - [@wolmer-afk](https://www.github.com/wolmer-afk)
