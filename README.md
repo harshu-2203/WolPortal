@@ -1,5 +1,5 @@
 
-![Demo](https://cdn.discordapp.com/attachments/933379220258820156/947076123676774410/demo.png)
+![Demo](assets/demo.png)
  
 # WOL-PORTAL 
 
@@ -30,8 +30,7 @@ Deployment : ![deployment](https://img.shields.io/github/deployments/wolmer-afk/
 Last update : ![deployment](https://img.shields.io/github/last-commit/wolmer-afk/WolPortal)
 
 Discord Online : ![Discord](https://img.shields.io/discord/936114716475006976)
-## Authors
-
+## Authorsls
 - [@wolmer-afk](https://www.github.com/wolmer-afk)
 
 
