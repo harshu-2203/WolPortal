@@ -43,6 +43,6 @@ Discord Online : ![Discord](https://img.shields.io/discord/936114716475006976)
 
 This project is used by the following authorities:
 
-- [Wolmer, OPC](https:/wolmer.cf/)
+- [Wolmer, OPC](https:/www.wolmer.cf)
 - [AAYOG Discord server](https://wolmer.cf/redirect/discord)
 
