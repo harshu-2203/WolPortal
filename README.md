@@ -3,7 +3,7 @@
  
 # WOL-PORTAL 
 
-My first Web project = My portpholio!! It's been a long journey since I pushed myself into the Tailwind CSS world, but it was amazing! It doesn't give you any components; it asks you to create your ones! And that is the most important thing to improve yourself in my opinion. It's been a great learning experience for me, and I think I've learned and improved myself a lot.
+My first Web project = My portfolio!! It's been a long journey since I pushed myself into the Tailwind CSS world, but it was amazing! It doesn't give you any components; it asks you to create your ones! And that is the most important thing to improve yourself in my opinion. It's been a great learning experience for me, and I think I've learned and improved myself a lot.
 
 It is my website that I use daily, so I had to include everything that I needed.
 
