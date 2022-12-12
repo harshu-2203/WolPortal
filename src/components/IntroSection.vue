@@ -2,16 +2,16 @@
     <header class="rounded-md flex flex-col-reverse my-16 mx-4  py-10 justify-between md:flex-row md:items-center">
       <div id="top" class="md:w-8/12">
         <div class="space-y-2">
-          <div class="font-semibold text-xl text-wolgray md:text-3xl dark:text-neutral-200">
+          <div class="font-semibold text-xl  md:text-3xl text-neutral-200">
             <h1>Self taught</h1>
             <h1><a href="https://www.w3schools.com/whatis/whatis_frontenddev.asp?utm_source=wolmer.me" target="_blank"
                 rel="noreferrer noopener"
-                class="cursor-help border-b-2 font-poppin border-blue-700 text-blue-700 dark:border-neutral-500 dark:text-neutral-500">Frontend</a>
+                class="cursor-help border-b-2 font-poppin border-neutral-500 text-neutral-500">Frontend</a>
               web developer
               <br> and a Web3 enthusiast 
             </h1>
           </div>
-          <p class="text-wolgray font-poppin">
+          <p class=" text-wolgray font-poppin">
             Hi there, My e-name is Wolmer. I am a 
             self taught web developer based in India. I build complex web apps using frameworks like
             <a href="https://vuejs.org/?utm_source=wolmer.me" target="_blank" rel="noreferrer noopener"

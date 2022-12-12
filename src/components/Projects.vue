@@ -1,12 +1,12 @@
 <template>
     <section id="projects" >
-        <h3  class="text-lg font-poppin font-bold text-gray-400 dark:text-neutral-700 px-4  uppercase">
+        <h3  class="text-lg font-poppin font-bold text-neutral-700 px-4  uppercase">
             Web 3 Projects I've worked with</h3>
         <div  class="mt-4 grid gap-2 md:gap-4 md:grid-cols-2">
             <a href="https://mooniemoo.io?utm_source=wolmer.me" target="_blank"
-                class="h-full linked-white rounded-md focus-ring overflow-x-hidden transition-colors p-4 cursor-pointer hover:bg-gray-100 dark:hover:bg-neutral-800/40 items-center flex space-x-4 justify-between">
+                class="h-full linked-white rounded-md focus-ring overflow-x-hidden transition-colors p-4 cursor-pointer  hover:bg-neutral-800/40 items-center flex space-x-4 justify-between">
                 <div class="overflow-x-hidden">
-                    <h2 class="font-medium text-gray-700 truncate dark:text-neutral-100">
+                    <h2 class="font-medium  truncate text-neutral-100">
                         Moonie Moo
                     </h2>
                     <p class="text-neutral-500 line-clamp-2">
@@ -18,9 +18,9 @@
             </a>
             
             <a  href="https://jacksoriginals.me/?utm_source=wolmer.me" target="_blank"
-                class="h-full  linked-white rounded-md focus-ring overflow-x-hidden transition-colors p-4 cursor-pointer hover:bg-gray-100 dark:hover:bg-neutral-800/40 items-center flex space-x-4 justify-between"><!---->
+                class="h-full  linked-white rounded-md focus-ring overflow-x-hidden transition-colors p-4 cursor-pointer  hover:bg-neutral-800/40 items-center flex space-x-4 justify-between"><!---->
                 <div class="overflow-x-hidden">
-                    <h2 class="font-medium text-gray-700  truncate dark:text-neutral-100">
+                    <h2 class="font-medium  truncate text-neutral-100">
                         Jacks Originals
                     </h2>
                     <p class="text-neutral-500 line-clamp-2">
@@ -32,9 +32,9 @@
             </a>
         
             <a  href="https://www.seemeo.app/?utm_source=wolmer.me" target="_blank"
-                class="h-full linked-white  rounded-md focus-ring overflow-x-hidden transition-colors p-4 cursor-pointer hover:bg-gray-100 dark:hover:bg-neutral-800/40 items-center flex space-x-4 justify-between"><!---->
+                class="h-full linked-white  rounded-md focus-ring overflow-x-hidden transition-colors p-4 cursor-pointer  hover:bg-neutral-800/40 items-center flex space-x-4 justify-between"><!---->
                 <div class="overflow-x-hidden">
-                    <h2 class="font-medium text-gray-700 truncate dark:text-neutral-100">
+                    <h2 class="font-medium  truncate text-neutral-100">
                         Seemeo app
                     </h2>
                     <p class="text-neutral-500 line-clamp-2">
@@ -47,9 +47,9 @@
 
 
             <a  href="#" target=""
-                class="h-full rounded-md focus-ring overflow-x-hidden transition-colors p-4 cursor-pointer hover:bg-gray-100 dark:hover:bg-neutral-800/40 items-center flex space-x-4 justify-between"><!---->
+                class="h-full rounded-md focus-ring overflow-x-hidden transition-colors p-4 cursor-pointer  hover:bg-neutral-800/40 items-center flex space-x-4 justify-between"><!---->
                 <div class="overflow-x-hidden">
-                    <h2 class="font-medium text-gray-700 truncate dark:text-neutral-100">
+                    <h2 class="font-medium  truncate text-neutral-100">
                         Project iiacon
                     </h2>
                     <p class="text-neutral-500 line-clamp-2">
