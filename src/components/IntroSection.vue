@@ -12,7 +12,7 @@
             </h1>
           </div>
           <p class="text-wolgray font-poppin">
-            Hi there, My name is Karan Roy. I am a 
+            Hi there, My e-name is Wolmer. I am a 
             self taught web developer based in India. I build complex web apps using frameworks like
             <a href="https://vuejs.org/?utm_source=wolmer.me" target="_blank" rel="noreferrer noopener"
               class="description-link linked-white">Vue.js</a>,
