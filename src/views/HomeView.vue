@@ -2,6 +2,7 @@
 import IntroSectionVue from '../components/IntroSection.vue';
 import Projects from '../components/Projects.vue'
 import TechUsed from '../components/TechUsed.vue'
+import FooterVue from '../components/Footer.vue';
 </script>
 
 <template>
@@ -9,5 +10,7 @@ import TechUsed from '../components/TechUsed.vue'
     <IntroSectionVue />
     <Projects />
     <TechUsed />
+    
   </main>
+  <FooterVue />
 </template>

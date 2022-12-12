@@ -45,3 +45,9 @@
     background-size: 100% 0.1em;
     background-position-x: 0%;
     }
+
+    #pfp-bg{
+  background-image: url(/src/assets/cd/wolpfp.png);
+  background-position: center center;
+  background-size: cover;
+}
