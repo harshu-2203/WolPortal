@@ -4,6 +4,9 @@
             <div class="space-y-4 text-center sm:space-y-0 sm:space-x-6 sm:text-left">
                 <a href="mailto:contact@wolmer.me" target="_blank"
                     class="text-center sm:truncate hover:underline">contact@wolmer.me</a>
+                    <br>
+                    <a href="sitemap.xml" target="_blank"
+                            class="text-center text-wolblack sm:truncate hover:underline">sitemap</a>
             </div>
         </div>
     </div>
