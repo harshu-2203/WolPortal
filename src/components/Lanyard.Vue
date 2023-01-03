@@ -56,8 +56,8 @@
                   this.status = response.data.data;
                   this.activity = response.data.data.activities;
                   
-                  console.log(this.status);
-                  console.warn(this.activity);
+                //   console.log(this.status);
+                //   console.warn(this.activity);
               })
                   .catch((error) => {
                   console.log(error);

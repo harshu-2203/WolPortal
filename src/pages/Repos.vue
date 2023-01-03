@@ -56,7 +56,7 @@
                  .get("https://api.github.com/users/thewolmer/repos")
                   .then(response => {
                   this.repos = response.data;
-                  console.log(response);
+                  // console.log(response);
               })
                   .catch((error) => {
                   console.log(error);
