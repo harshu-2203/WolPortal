@@ -4,8 +4,8 @@
 				<a  href="https://instagram.com/thewolmer" target="_blank"> <i class='bx bxl-instagram text-wolgray hover:text-wolwhite' ></i></a>
 				<a  href="https://twitter.com/thewolmer" target="_blank"> <i class='bx bxl-twitter text-wolgray hover:text-wolwhite' ></i> </a>
 				<a  href="https://github.com/thewolmer" target="_blank"> <i class='bx bxl-github text-wolgray hover:text-wolwhite' ></i> </a>
-				<a  href="https://snapchat.com/thewolmer" target="_blank"> <i class='bx bxl-snapchat text-wolgray hover:text-wolwhite' ></i> </a>
-				<a  href="https://buymeacoffee.com/thewolmer" target="_blank"> <i class='bx bx-coffee-togo text-wolgray hover:text-wolwhite' ></i> </a>
+				<a  href="https://www.linkedin.com/in/thewolmer/" target="_blank"> <i class='bx bxl-linkedin-square text-wolgray hover:text-wolwhite' ></i> </a>
+				<!-- <a  href="https://buymeacoffee.com/thewolmer" target="_blank"> <i class='bx bx-coffee-togo text-wolgray hover:text-wolwhite' ></i> </a> -->
 			</div>
         </div>
 </template>

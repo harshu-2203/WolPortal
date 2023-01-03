@@ -18,6 +18,9 @@ module.exports = {
         'wolblack': '#171717',
         'wolwhite': '#c6c6c6'
     },
+    animation: {
+      'spin-slow': 'spin 3s linear infinite',
+    }
   },
   plugins: [],
 }
