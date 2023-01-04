@@ -55,7 +55,7 @@
                   .then(response => {
                   this.status = response.data.data;
                   this.activity = response.data.data.activities;
-                  
+                  console.log(response.data.activities[0].assets.small_text);
                 //   console.log(this.status);
                 //   console.warn(this.activity);
               })
